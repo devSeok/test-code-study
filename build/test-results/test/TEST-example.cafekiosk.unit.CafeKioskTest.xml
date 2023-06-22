@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="example.cafekiosk.unit.CafeKioskTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-02T09:22:02" hostname="VIRNECTui-MacBookPro-2.local" time="0.033">
+  <properties/>
+  <testcase name="음료 1개를 추가하면 주문 목록에 담긴다." classname="example.cafekiosk.unit.CafeKioskTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
